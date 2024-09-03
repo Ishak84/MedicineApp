@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MedicineApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_pills_name">Введите название лекарства</string>
+    <string name="about_drug">О лекарстве</string>
+    <string name="add_drug">Добавить лекарство</string>
+    <string name="back">back</string>
+    <string name="choose_time">Выберите время:</string>
+    <string name="add_time">+ Добавить</string>
+    <string name="save">сохранить</string>
+    <string name="change">изменить</string>
+    <string name="put_off">отложить</string>
+    <string name="plus">+</string>
+    <string name="pills">Pills</string>
+</resources>
